@@ -24,7 +24,7 @@ My research focuses on **human-centric 3D vision**, including 3D human reconstru
 <img width="80" src="../images/hit.png"> 
 </td>
 <td style="padding:20px;width:75%;vertical-align:middle;border: none" align="left">
-Ph.D. Student. Sep. 2021 - Jun. 2025 (Expected)<br>
+Ph.D. Student. Sep. 2021 - Present<br>
 <a href="https://encs.hit.edu.cn">Faculty of Computing</a><br>
 <a href="http://en.hit.edu.cn">Harbin Institute of Technology</a><br>
 </td>
