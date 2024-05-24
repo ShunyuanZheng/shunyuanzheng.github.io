@@ -76,7 +76,7 @@ Bachelor of Engineering. Sep. 2015 - Jun. 2019<br>
 Hanzhang Tu, [Ruizhi Shao](https://dsaurus.github.io/saurus), Xue Dong, <b>Shunyuan Zheng</b>, Hao Zhang, Lili Chen, Meili Wang, Wenyu Li, Siyan Ma, [Shengping Zhang](http://homepage.hit.edu.cn/zhangshengping), [Boyao Zhou](https://yaourtb.github.io), [Yebin Liu](http://www.liuyebin.com)<br>
 <i><b>SIGGRAPH</b> Conference Proceedings, 2024</i><br>
 [<i class="fas fa-fw fa-globe"></i>Project](http://118.178.32.38/c/Tele-Aloha) /
-[<i class="fas fa-fw fa-file-pdf"></i>Paper](https://arxiv.org/pdf/2405.14866)<br>
+[<i class="fas fa-fw fa-file-pdf"></i>Paper](https://arxiv.org/pdf/2405.14866)
 
 ---
 
