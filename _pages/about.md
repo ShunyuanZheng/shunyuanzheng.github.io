@@ -65,6 +65,7 @@ Bachelor of Engineering. Sep. 2015 - Jun. 2019<br>
 <i>IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2024</i>  <font color="#dd0000">(Highlight)</font><br>
 [<i class="fas fa-fw fa-globe"></i>Project](https://shunyuanzheng.github.io/GPS-Gaussian) /
 [<i class="fas fa-fw fa-file-pdf"></i>Paper](https://arxiv.org/pdf/2312.02155.pdf) /
+[<i class="fab fa-fw fa-github fa-github"></i>Code](https://github.com/aipixel/GPS-Gaussian) /
 [<i class="fas fa-fw fa-video"></i>Video](https://youtu.be/TBIekcqt0j0)<br>
 
 ---
@@ -74,8 +75,8 @@ Bachelor of Engineering. Sep. 2015 - Jun. 2019<br>
 <b>Tele-Aloha: A Telepresence System with Low-budget and High-authenticity Using Sparse RGB Cameras</b><br>
 Hanzhang Tu, [Ruizhi Shao](https://dsaurus.github.io/saurus), Xue Dong, <b>Shunyuan Zheng</b>, Hao Zhang, Lili Chen, Meili Wang, Wenyu Li, Siyan Ma, [Shengping Zhang](http://homepage.hit.edu.cn/zhangshengping), [Boyao Zhou](https://yaourtb.github.io), [Yebin Liu](http://www.liuyebin.com)<br>
 <i><b>SIGGRAPH</b> Conference Proceedings, 2024</i><br>
-[<i class="fas fa-fw fa-globe"></i>Project (coming soon)](blank) /
-[<i class="fas fa-fw fa-file-pdf"></i>Paper (coming soon)](blank)
+[<i class="fas fa-fw fa-globe"></i>Project](http://118.178.32.38/c/Tele-Aloha) /
+[<i class="fas fa-fw fa-file-pdf"></i>Paper](https://arxiv.org/pdf/2405.14866)<br>
 
 ---
 
