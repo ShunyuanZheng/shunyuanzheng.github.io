@@ -76,7 +76,7 @@ Bachelor of Engineering. Sep. 2015 - Jun. 2019<br>
 Hanzhang Tu, [Ruizhi Shao](https://dsaurus.github.io/saurus), Xue Dong, <b>Shunyuan Zheng</b>, Hao Zhang, Lili Chen, Meili Wang, Wenyu Li, Siyan Ma, [Shengping Zhang](http://homepage.hit.edu.cn/zhangshengping), [Boyao Zhou](https://yaourtb.github.io), [Yebin Liu](http://www.liuyebin.com)<br>
 <i><b>SIGGRAPH</b> Conference Proceedings, 2024</i><br>
 [<i class="fas fa-fw fa-globe"></i>Project](http://118.178.32.38/c/Tele-Aloha) /
-[<i class="fas fa-fw fa-file-pdf"></i>Paper](https://arxiv.org/pdf/2405.14866)
+[<i class="fas fa-fw fa-file-pdf"></i>Paper](https://arxiv.org/pdf/2405.14866)<br>
 
 ---
 
@@ -85,8 +85,8 @@ Hanzhang Tu, [Ruizhi Shao](https://dsaurus.github.io/saurus), Xue Dong, <b>Shuny
 <b>Overwater Image Dehazing via Cycle-Consistent Generative Adversarial Network</b><br>
 <b>Shunyuan Zheng</b>, Jiamin Sun, [Qinglin Liu](https://scholar.google.com/citations?user=hsu1cSIAAAAJ), [Yuankai Qi](https://sites.google.com/site/yuankiqi), [Shengping Zhang](http://homepage.hit.edu.cn/zhangshengping)<br>
 <i>Asian Conference on Computer Vision (<b>ACCV</b>), 2020</i><br>
-[<i class="fab fa-fw fa-github fa-github"></i>Code](https://github.com/ShunyuanZheng/OWI-DehazeGAN) /
-[<i class="fas fa-fw fa-file-pdf"></i>Paper](https://openaccess.thecvf.com/content/ACCV2020/papers/Zheng_Overwater_Image_Dehazing_via_Cycle-Consistent_Generative_Adversarial_Network_ACCV_2020_paper.pdf)<br>
+ [<i class="fas fa-fw fa-file-pdf"></i>Paper](https://openaccess.thecvf.com/content/ACCV2020/papers/Zheng_Overwater_Image_Dehazing_via_Cycle-Consistent_Generative_Adversarial_Network_ACCV_2020_paper.pdf)/
+[<i class="fab fa-fw fa-github fa-github"></i>Code](https://github.com/ShunyuanZheng/OWI-DehazeGAN)<br>
 
 
 ## Award
