@@ -66,7 +66,7 @@ Bachelor of Engineering. Sep. 2015 - Jun. 2019<br>
 [<i class="fas fa-fw fa-globe"></i>Project](https://shunyuanzheng.github.io/GPS-Gaussian) /
 [<i class="fas fa-fw fa-file-pdf"></i>Paper](https://arxiv.org/pdf/2312.02155.pdf) /
 [<i class="fab fa-fw fa-github fa-github"></i>Code](https://github.com/aipixel/GPS-Gaussian) /
-[<i class="fas fa-fw fa-video"></i>Video](https://youtu.be/TBIekcqt0j0)<br>
+[<i class="fas fa-fw fa-video"></i>Video](https://youtu.be/UQ9EnKuOHw4)<br>
 
 ---
 
