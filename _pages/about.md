@@ -64,7 +64,7 @@ Bachelor of Engineering. Sep. 2015 - Jun. 2019<br>
 <b>Shunyuan Zheng</b>, [Boyao Zhou](https://yaourtb.github.io), [Ruizhi Shao](https://dsaurus.github.io/saurus), [Boning Liu](https://liuboning2.github.io), [Shengping Zhang](http://homepage.hit.edu.cn/zhangshengping), [Liqiang Nie](https://liqiangnie.github.io), [Yebin Liu](http://www.liuyebin.com)<br>
 <i>IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2024</i>  <font color="#dd0000">(Highlight)</font><br>
 [<i class="fas fa-fw fa-globe"></i>Project](https://shunyuanzheng.github.io/GPS-Gaussian) /
-[<i class="fas fa-fw fa-file-pdf"></i>Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zheng_GPS-Gaussian_Generalizable_Pixel-wise_3D_Gaussian_Splatting_for_Real-time_Human_Novel_CVPR_2024_paper.pdf) /
+[<i class="fas fa-fw fa-file-pdf"></i>Paper](https://arxiv.org/pdf/2312.02155) /
 [<i class="fab fa-fw fa-github fa-github"></i>Code](https://github.com/aipixel/GPS-Gaussian) /
 [<i class="fas fa-fw fa-video"></i>Video](https://youtu.be/HjnBAqjGIAo)<br>
 
