@@ -88,6 +88,8 @@ Hanzhang Tu, [Ruizhi Shao](https://dsaurus.github.io/saurus), Xue Dong, <b>Shuny
  [<i class="fas fa-fw fa-file-pdf"></i>Paper](https://openaccess.thecvf.com/content/ACCV2020/papers/Zheng_Overwater_Image_Dehazing_via_Cycle-Consistent_Generative_Adversarial_Network_ACCV_2020_paper.pdf)/
 [<i class="fab fa-fw fa-github fa-github"></i>Code](https://github.com/ShunyuanZheng/OWI-DehazeGAN)<br>
 
+## Talk
++ GPS-Gaussian：基于像素级可泛化3D高斯的人体新视点合成 ([深蓝学院](https://www.shenlanxueyuan.com/open/course/226))
 
 ## Award
 + National Scholarship, Ministry of Education of China, 2020
