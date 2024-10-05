@@ -62,7 +62,7 @@ Bachelor of Engineering. Sep. 2015 - Jun. 2019<br>
 <td style="padding-left:20px;width:70%;vertical-align:middle;border: none" align="left">
 <b>GPS-Gaussian+: Generalizable Pixel-wise 3D Gaussian Splatting for Real-Time Human-Scene Rendering from Sparse Views</b><br>
 Boyao Zhou*, <b>Shunyuan Zheng</b>*, Hanzhang Tu, Ruizhi Shao, Boning Liu, Shengping Zhang, Liqiang Nie, Yebin Liu (*=equal contribution)<br>
-<i>Under review, 2024</i><br>
+<i>Under Review, 2024</i><br>
 <a href=""><i class="fas fa-fw fa-globe"></i>Project (Coming Soon)</a> /
 <a href=""><i class="fas fa-fw fa-file-pdf"></i>Paper (Coming Soon)</a> 
 </td>
