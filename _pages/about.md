@@ -64,7 +64,7 @@ Bachelor of Engineering. Sep. 2015 - Jun. 2019<br>
 <td style="padding:0px;width:30%;vertical-align:middle;border:none" align="center">
 <img width="100%" src="../images/SCW-VTON.png"/>
 </td>
-<td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
+<td style="padding-left:20px;width:70%;vertical-align:middle;border: none" align="left">
 <b>Shape-Guided Clothing Warping for Virtual Try-On</b><br>
 Xiaoyu Han, <b>Shunyuan Zheng</b>, Zonglin Li, Chenyang Wang, Xin Sun, Quanling Meng<br>
 <i>ACM International Conference on Multimedia (<b>ACM MM</b>), 2024</i><br>
@@ -83,7 +83,7 @@ Xiaoyu Han, <b>Shunyuan Zheng</b>, Zonglin Li, Chenyang Wang, Xin Sun, Quanling 
 <td style="padding:0px;width:30%;vertical-align:middle;border:none" align="center">
 <img width="100%" src="../images/GPS-Gaussian_live.gif"/>
 </td>
-<td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
+<td style="padding-left:20px;width:70%;vertical-align:middle;border: none" align="left">
 <b>GPS-Gaussian: Generalizable Pixel-wise 3D Gaussian Splatting for Real-time Human Novel View Synthesis</b><br>
 <b>Shunyuan Zheng</b>, Boyao Zhou, Ruizhi Shao, Boning Liu, Shengping Zhang, Liqiang Nie, Yebin Liu<br>
 <i>IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2024</i>  <font color="#dd0000">(Highlight)</font><br>
@@ -104,7 +104,7 @@ Xiaoyu Han, <b>Shunyuan Zheng</b>, Zonglin Li, Chenyang Wang, Xin Sun, Quanling 
 <td style="padding:0px;width:30%;vertical-align:middle;border:none" align="center">
 <img width="100%" src="../images/Tele-Aloha.gif"/>
 </td>
-<td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
+<td style="padding-left:20px;width:70%;vertical-align:middle;border: none" align="left">
 <b>Tele-Aloha: A Telepresence System with Low-budget and High-authenticity Using Sparse RGB Cameras</b><br>
 Hanzhang Tu, Ruizhi Shao, Xue Dong, <b>Shunyuan Zheng</b>, Hao Zhang, Lili Chen, Meili Wang, Wenyu Li, Siyan Ma, Shengping Zhang, Boyao Zhou, Yebin Liu<br>
 <i>ACM <b>SIGGRAPH</b> Conference Proceedings, 2024</i><br>
@@ -124,7 +124,7 @@ Hanzhang Tu, Ruizhi Shao, Xue Dong, <b>Shunyuan Zheng</b>, Hao Zhang, Lili Chen,
 <td style="padding:0px;width:30%;vertical-align:middle;border:none" align="center">
 <img width="100%" src="../images/OWI-DehazeGAN.jpg"/>
 </td>
-<td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
+<td style="padding-left:20px;width:70%;vertical-align:middle;border: none" align="left">
 <b>Overwater Image Dehazing via Cycle-Consistent Generative Adversarial Network</b><br>
 <b>Shunyuan Zheng</b>, Jiamin Sun, Qinglin Liu, Yuankai Qi, Shengping Zhang<br>
 <i>Asian Conference on Computer Vision (<b>ACCV</b>), 2020</i><br>
