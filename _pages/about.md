@@ -69,7 +69,7 @@ Bachelor of Engineering. Sep. 2015 - Jun. 2019<br>
 Xiaoyu Han, <b>Shunyuan Zheng</b>, Zonglin Li, Chenyang Wang, Xin Sun, Quanling Meng<br>
 <i>ACM International Conference on Multimedia (<b>ACM MM</b>), 2024</i><br>
 <a href="https://openreview.net/pdf?id=uzlrRAmhPj"><i class="fas fa-fw fa-file-pdf"></i>Paper</a> /
-<i class="fab fa-fw fa-github"></i>Code (Coming Soon)</a>
+<a href=""><i class="fab fa-fw fa-github"></i>Code (Coming Soon)</a>
 </td>
 </tr>
 </table>
