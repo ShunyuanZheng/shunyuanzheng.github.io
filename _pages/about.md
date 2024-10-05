@@ -58,25 +58,43 @@ Bachelor of Engineering. Sep. 2015 - Jun. 2019<br>
 
 ## Research
 
-<img align="left" width="300" height="225" src="../images/SCW-VTON.png" style="padding-right:20px; padding-top:20px"/>
-
+<div>
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
+<tr>
+<td style="padding:20px;width:30%;vertical-align:middle;border:none" align="center">
+<img width="100%" src="../images/SCW-VTON.png"/>
+</td>
+<td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
 <b>Shape-Guided Clothing Warping for Virtual Try-On</b><br>
 Xiaoyu Han, <b>Shunyuan Zheng</b>, Zonglin Li, Chenyang Wang, Xin Sun, Quanling Meng<br>
 <i>ACM International Conference on Multimedia (<b>ACM MM</b>), 2024</i><br>
-[<i class="fas fa-fw fa-file-pdf"></i>Paper](https://openreview.net/pdf?id=uzlrRAmhPj) /
-<i class="fab fa-fw fa-github fa-github"></i>Code (Coming Soon)<br>
+<a href="https://openreview.net/pdf?id=uzlrRAmhPj"><i class="fas fa-fw fa-file-pdf"></i>Paper</a> /
+<i class="fab fa-fw fa-github"></i>Code (Coming Soon)</a>
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
-<img align="left" width="300" height="225" src="../images/GPS-Gaussian_live.gif" style="padding-right:20px; padding-top:20px"/>
-
+<div>
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
+<tr>
+<td style="padding:20px;width:30%;vertical-align:middle;border:none" align="center">
+<img width="100%" src="../images/GPS-Gaussian_live.gif"/>
+</td>
+<td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
 <b>GPS-Gaussian: Generalizable Pixel-wise 3D Gaussian Splatting for Real-time Human Novel View Synthesis</b><br>
 <b>Shunyuan Zheng</b>, Boyao Zhou, Ruizhi Shao, Boning Liu, Shengping Zhang, Liqiang Nie, Yebin Liu<br>
 <i>IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2024</i>  <font color="#dd0000">(Highlight)</font><br>
-[<i class="fas fa-fw fa-globe"></i>Project](https://shunyuanzheng.github.io/GPS-Gaussian) /
-[<i class="fas fa-fw fa-file-pdf"></i>Paper](https://arxiv.org/pdf/2312.02155) /
-[<i class="fab fa-fw fa-github fa-github"></i>Code](https://github.com/aipixel/GPS-Gaussian) /
-[<i class="fas fa-fw fa-video"></i>Video](https://youtu.be/HjnBAqjGIAo)<br>
+<a href="https://shunyuanzheng.github.io/GPS-Gaussian"><i class="fas fa-fw fa-globe"></i>Projectpage</a> /
+<a href="https://arxiv.org/pdf/2312.02155"><i class="fas fa-fw fa-file-pdf"></i>Paper</a> /
+<a href="https://github.com/aipixel/GPS-Gaussian"><i class="fab fa-fw fa-github"></i>Code</a> /
+<a href="https://youtu.be/HjnBAqjGIAo"><i class="fas fa-fw fa-video"></i>Video</a> /
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
