@@ -13,6 +13,7 @@ redirect_from:
 * Ph.D. in Computer Science and Technology, Harbin Institute of Technology, 2025 (expected) -->
 Hi, this is Shunyuan Zheng. I am a third-year (2021~) Ph.D. student in Faculty of Computing, Harbin Institute of Technology, advised by Prof. [Shengping Zhang](https://homepage.hit.edu.cn/zhangshengping).
 My research focuses on **human-centric 3D vision**, including 3D human reconstruction, novel view synthesis, etc.
+From 2023 to 2024, I worked as a research intern at the 3D Vision and Computational Photography Group, Tsinghua University, guided by Prof. [Yebin Liu](https://liuyebin.com).
 
 
 ## Background
