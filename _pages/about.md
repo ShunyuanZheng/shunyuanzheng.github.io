@@ -52,7 +52,7 @@ Bachelor of Engineering. Sep. 2015 - Jun. 2019<br>
 <div>
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
 <tr>
-<td style="padding:20px;width:30%;vertical-align:middle;border:none" align="center">
+<td style="padding:0px;width:30%;vertical-align:middle;border:none" align="center">
 <video width="100%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
   <source src="../images/GPS-Gaussian_Plus.mp4" type="video/mp4">
 </video>
