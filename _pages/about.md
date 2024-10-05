@@ -26,12 +26,13 @@ From 2023 to 2024, I worked as a research intern at the 3D Vision and Computatio
 </td>
 <td style="padding:20px;width:75%;vertical-align:middle;border: none" align="left">
 Ph.D. Student. Sep. 2021 - Present<br>
-<a href="https://encs.hit.edu.cn">Faculty of Computing</a><br>
+Master of Engineering. Sep. 2019 - Jun. 2021<br>
+<!-- <a href="https://encs.hit.edu.cn">Faculty of Computing</a><br> -->
 <a href="http://en.hit.edu.cn">Harbin Institute of Technology</a><br>
 </td>
 </tr>
 
-<tr>
+<!-- <tr>
 <td style="padding:20px;width:25%;vertical-align:middle;border:none" align="center">
 <img width="80" src="../images/hit.png"> 
 </td>
@@ -40,7 +41,7 @@ Master of Engineering. Sep. 2019 - Jun. 2021<br>
 <a href="https://cst.hitwh.edu.cn">School of Computer Science and Technology</a><br>
 <a href="https://www.hitwh.edu.cn">Harbin Institute of Technology (Weihai)</a><br>
 </td>
-</tr>
+</tr> -->
 
 <tr>
 <td style="padding:20px;width:25%;vertical-align:middle;border:none" align="center">
@@ -48,7 +49,7 @@ Master of Engineering. Sep. 2019 - Jun. 2021<br>
 </td>
 <td style="padding:20px;width:75%;vertical-align:middle;border: none" align="left">
 Bachelor of Engineering. Sep. 2015 - Jun. 2019<br>
-<a href="https://ci.hfut.edu.cn/English/Home.htm">School of Computer Science and Information Engineering</a><br>
+<!-- <a href="https://ci.hfut.edu.cn/English/Home.htm">School of Computer Science and Information Engineering</a><br> -->
 <a href="https://www.hfut.edu.cn">Hefei University of Technology</a><br>
 </td>
 </tr>
