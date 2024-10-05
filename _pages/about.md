@@ -61,7 +61,7 @@ Bachelor of Engineering. Sep. 2015 - Jun. 2019<br>
 <div>
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
 <tr>
-<td style="padding:20px;width:30%;vertical-align:middle;border:none" align="center">
+<td style="padding:0px;width:30%;vertical-align:middle;border:none" align="center">
 <img width="100%" src="../images/SCW-VTON.png"/>
 </td>
 <td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
@@ -80,7 +80,7 @@ Xiaoyu Han, <b>Shunyuan Zheng</b>, Zonglin Li, Chenyang Wang, Xin Sun, Quanling 
 <div>
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
 <tr>
-<td style="padding:20px;width:30%;vertical-align:middle;border:none" align="center">
+<td style="padding:0px;width:30%;vertical-align:middle;border:none" align="center">
 <img width="100%" src="../images/GPS-Gaussian_live.gif"/>
 </td>
 <td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
