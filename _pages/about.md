@@ -27,21 +27,10 @@ From 2023 to 2024, I worked as a research intern at the 3D Vision and Computatio
 <td style="padding:20px;width:75%;vertical-align:middle;border: none" align="left">
 Ph.D. Student. Sep. 2021 - Present<br>
 Master of Engineering. Sep. 2019 - Jun. 2021<br>
-<!-- <a href="https://encs.hit.edu.cn">Faculty of Computing</a><br> -->
+<a href="https://encs.hit.edu.cn">Faculty of Computing</a><br>
 <a href="http://en.hit.edu.cn">Harbin Institute of Technology</a><br>
 </td>
 </tr>
-
-<!-- <tr>
-<td style="padding:20px;width:25%;vertical-align:middle;border:none" align="center">
-<img width="80" src="../images/hit.png"> 
-</td>
-<td style="padding:20px;width:75%;vertical-align:middle;border: none" align="left">
-Master of Engineering. Sep. 2019 - Jun. 2021<br>
-<a href="https://cst.hitwh.edu.cn">School of Computer Science and Technology</a><br>
-<a href="https://www.hitwh.edu.cn">Harbin Institute of Technology (Weihai)</a><br>
-</td>
-</tr> -->
 
 <tr>
 <td style="padding:20px;width:25%;vertical-align:middle;border:none" align="center">
@@ -49,7 +38,7 @@ Master of Engineering. Sep. 2019 - Jun. 2021<br>
 </td>
 <td style="padding:20px;width:75%;vertical-align:middle;border: none" align="left">
 Bachelor of Engineering. Sep. 2015 - Jun. 2019<br>
-<!-- <a href="https://ci.hfut.edu.cn/English/Home.htm">School of Computer Science and Information Engineering</a><br> -->
+<a href="https://ci.hfut.edu.cn/English/Home.htm">School of Computer Science and Information Engineering</a><br>
 <a href="https://www.hfut.edu.cn">Hefei University of Technology</a><br>
 </td>
 </tr>
@@ -59,6 +48,27 @@ Bachelor of Engineering. Sep. 2015 - Jun. 2019<br>
 
 
 ## Research
+
+<div>
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
+<tr>
+<td style="padding:20px;width:30%;vertical-align:middle;border:none" align="center">
+<video width="100%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
+  <source src="../images/GPS-Gaussian_Plus.mp4" type="video/mp4">
+</video>
+</td>
+<td style="padding-left:20px;width:70%;vertical-align:middle;border: none" align="left">
+<b>GPS-Gaussian+: Generalizable Pixel-wise 3D Gaussian Splatting for Real-Time Human-Scene Rendering from Sparse Views</b><br>
+Boyao Zhou*, <b>Shunyuan Zheng</b>*, Hanzhang Tu, Ruizhi Shao, Boning Liu, Shengping Zhang, Liqiang Nie, Yebin Liu (*=equal contribution)<br>
+<i>arXiv, 2024</i><br>
+<a href=""><i class="fas fa-fw fa-globe"></i>Project (Coming Soon)</a> /
+<a href=""><i class="fas fa-fw fa-file-pdf"></i>Paper (Coming Soon)</a> 
+</td>
+</tr>
+</table>
+</div>
+
+---
 
 <div>
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
@@ -83,7 +93,7 @@ Xiaoyu Han, <b>Shunyuan Zheng</b>, Zonglin Li, Chenyang Wang, Xin Sun, Quanling 
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
 <tr>
 <td style="padding:0px;width:30%;vertical-align:middle;border:none" align="center">
-<img width="100%" src="../images/GPS-Gaussian_live.gif"/>
+<img width="100%" src="../images/GPS-Gaussian.gif"/>
 </td>
 <td style="padding-left:20px;width:70%;vertical-align:middle;border: none" align="left">
 <b>GPS-Gaussian: Generalizable Pixel-wise 3D Gaussian Splatting for Real-time Human Novel View Synthesis</b><br>
