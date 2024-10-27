@@ -82,7 +82,7 @@ Boyao Zhou*, <b>Shunyuan Zheng</b>*, Hanzhang Tu, Ruizhi Shao, Boning Liu, Sheng
 <b>Shape-Guided Clothing Warping for Virtual Try-On</b><br>
 Xiaoyu Han, <b>Shunyuan Zheng</b>, Zonglin Li, Chenyang Wang, Xin Sun, Quanling Meng<br>
 <i>ACM International Conference on Multimedia (<b>ACM MM</b>), 2024</i><br>
-<a href="https://openreview.net/pdf?id=uzlrRAmhPj"><i class="fas fa-fw fa-file-pdf"></i>Paper</a> /
+<a href="https://dl.acm.org/doi/10.1145/3664647.3680756"><i class="fas fa-fw fa-file-pdf"></i>Paper</a> /
 <a href=""><i class="fab fa-fw fa-github"></i>Code (Coming Soon)</a>
 </td>
 </tr>
