@@ -84,7 +84,7 @@ Boyao Zhou*, <b>Shunyuan Zheng</b>*, Hanzhang Tu, Ruizhi Shao, Boning Liu, Sheng
 Xiaoyu Han, <b>Shunyuan Zheng</b>, Zonglin Li, Chenyang Wang, Xin Sun, Quanling Meng<br>
 <i>ACM International Conference on Multimedia (<b>ACM MM</b>), 2024</i><br>
 <a href="https://dl.acm.org/doi/10.1145/3664647.3680756"><i class="fas fa-fw fa-file-pdf"></i>Paper</a> /
-<a href=""><i class="fab fa-fw fa-github"></i>Code (Coming Soon)</a>
+<a href="https://github.com/xyhanHIT/SCW-VTON"><i class="fab fa-fw fa-github"></i>Code</a>
 </td>
 </tr>
 </table>
