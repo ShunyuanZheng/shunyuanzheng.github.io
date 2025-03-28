@@ -55,7 +55,7 @@ Bachelor of Engineering. Sep. 2015 - Jun. 2019<br>
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
 <tr>
 <td style="padding:0px;width:30%;vertical-align:middle;border:none" align="center">
-<img width="100%" src="../images/GBC_Splat.png"/>
+<img width="100%" src="../images/GBC_Splat.jpg"/>
 </td>
 <td style="padding-left:20px;width:70%;vertical-align:middle;border: none" align="left">
 <b>GBC-Splat: Generalizable Gaussian-Based Clothed Human Digitalization under Sparse RGB Cameras</b><br>
