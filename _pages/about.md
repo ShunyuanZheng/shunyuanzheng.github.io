@@ -55,6 +55,24 @@ Bachelor of Engineering. Sep. 2015 - Jun. 2019<br>
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
 <tr>
 <td style="padding:0px;width:30%;vertical-align:middle;border:none" align="center">
+<img width="100%" src="../images/GBC_Splat.png"/>
+</td>
+<td style="padding-left:20px;width:70%;vertical-align:middle;border: none" align="left">
+<b>GBC-Splat: Generalizable Gaussian-Based Clothed Human Digitalization under Sparse RGB Cameras</b><br>
+Hanzhang Tu, Zhanfeng Liao, Boyao Zhou, <b>Shunyuan Zheng</b>, Xilong Zhou, Liuxin Zhang, QianYing Wang, Yebin Liu<br>
+<i>IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2025</i><br>
+<a href=""><i class="fas fa-fw fa-file-pdf"></i>Paper (Coming Soon)</a>
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+<div>
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
+<tr>
+<td style="padding:0px;width:30%;vertical-align:middle;border:none" align="center">
 <img width="100%" src="../images/GPS-Gaussian_Plus.gif"/>
 <!-- <video width="100%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
   <source src="../images/GPS-Gaussian_Plus.mp4" type="video/mp4">
