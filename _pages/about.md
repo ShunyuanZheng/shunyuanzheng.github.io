@@ -55,13 +55,17 @@ Bachelor of Engineering. Sep. 2015 - Jun. 2019<br>
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
 <tr>
 <td style="padding:0px;width:30%;vertical-align:middle;border:none" align="center">
-<img width="100%" src="../images/GBC_Splat.jpg"/>
+<img width="100%" src="../images/GPS-Gaussian_Plus.gif"/>
+<!-- <video width="100%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
+  <source src="../images/GPS-Gaussian_Plus.mp4" type="video/mp4">
+</video> -->
 </td>
 <td style="padding-left:20px;width:70%;vertical-align:middle;border: none" align="left">
-<b>GBC-Splat: Generalizable Gaussian-Based Clothed Human Digitalization under Sparse RGB Cameras</b><br>
-Hanzhang Tu, Zhanfeng Liao, Boyao Zhou, <b>Shunyuan Zheng</b>, Xilong Zhou, Liuxin Zhang, QianYing Wang, Yebin Liu<br>
-<i>IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2025</i><br>
-<a href=""><i class="fas fa-fw fa-file-pdf"></i>Paper (Coming Soon)</a>
+<b>GPS-Gaussian+: Generalizable Pixel-wise 3D Gaussian Splatting for Real-Time Human-Scene Rendering from Sparse Views</b><br>
+Boyao Zhou*, <b>Shunyuan Zheng</b>*, Hanzhang Tu, Ruizhi Shao, Boning Liu, Shengping Zhang, Liqiang Nie, Yebin Liu (*=equal contribution)<br>
+<i>IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>T-PAMI</b>), 2025</i><br>
+<a href="https://yaourtb.github.io/GPS-Gaussian+"><i class="fas fa-fw fa-globe"></i>Project</a> /
+<a href="https://arxiv.org/pdf/2411.11363"><i class="fas fa-fw fa-file-pdf"></i>Paper</a> 
 </td>
 </tr>
 </table>
@@ -73,17 +77,13 @@ Hanzhang Tu, Zhanfeng Liao, Boyao Zhou, <b>Shunyuan Zheng</b>, Xilong Zhou, Liux
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
 <tr>
 <td style="padding:0px;width:30%;vertical-align:middle;border:none" align="center">
-<img width="100%" src="../images/GPS-Gaussian_Plus.gif"/>
-<!-- <video width="100%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
-  <source src="../images/GPS-Gaussian_Plus.mp4" type="video/mp4">
-</video> -->
+<img width="100%" src="../images/GBC_Splat.jpg"/>
 </td>
 <td style="padding-left:20px;width:70%;vertical-align:middle;border: none" align="left">
-<b>GPS-Gaussian+: Generalizable Pixel-wise 3D Gaussian Splatting for Real-Time Human-Scene Rendering from Sparse Views</b><br>
-Boyao Zhou*, <b>Shunyuan Zheng</b>*, Hanzhang Tu, Ruizhi Shao, Boning Liu, Shengping Zhang, Liqiang Nie, Yebin Liu (*=equal contribution)<br>
-<i>arXiv, 2024</i><br>
-<a href="https://yaourtb.github.io/GPS-Gaussian+"><i class="fas fa-fw fa-globe"></i>Project</a> /
-<a href="https://arxiv.org/pdf/2411.11363"><i class="fas fa-fw fa-file-pdf"></i>Paper</a> 
+<b>GBC-Splat: Generalizable Gaussian-Based Clothed Human Digitalization under Sparse RGB Cameras</b><br>
+Hanzhang Tu, Zhanfeng Liao, Boyao Zhou, <b>Shunyuan Zheng</b>, Xilong Zhou, Liuxin Zhang, QianYing Wang, Yebin Liu<br>
+<i>IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2025</i><br>
+<a href=""><i class="fas fa-fw fa-file-pdf"></i>Paper (Coming Soon)</a>
 </td>
 </tr>
 </table>
