@@ -65,7 +65,8 @@ Bachelor of Engineering. Sep. 2015 - Jun. 2019<br>
 Boyao Zhou*, <b>Shunyuan Zheng</b>*, Hanzhang Tu, Ruizhi Shao, Boning Liu, Shengping Zhang, Liqiang Nie, Yebin Liu (*=equal contribution)<br>
 <i>IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>T-PAMI</b>), 2025</i><br>
 <a href="https://yaourtb.github.io/GPS-Gaussian+"><i class="fas fa-fw fa-globe"></i>Project</a> /
-<a href="https://arxiv.org/pdf/2411.11363"><i class="fas fa-fw fa-file-pdf"></i>Paper</a> 
+<a href="https://arxiv.org/pdf/2411.11363"><i class="fas fa-fw fa-file-pdf"></i>Paper</a> /
+<a href="https://github.com/YaourtB/GPS_plus"><i class="fab fa-fw fa-github"></i>Code</a>
 </td>
 </tr>
 </table>
