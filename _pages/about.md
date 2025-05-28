@@ -55,6 +55,26 @@ Bachelor of Engineering. Sep. 2015 - Jun. 2019<br>
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
 <tr>
 <td style="padding:0px;width:30%;vertical-align:middle;border:none" align="center">
+<img width="100%" src="../images/GRGS.gif"/>
+</td>
+<td style="padding-left:20px;width:70%;vertical-align:middle;border: none" align="left">
+<b>Generalizable and Relightable Gaussian Splatting for Human Novel View Synthesis</b><br>
+Yipengjing Sun, Chenyang Wang, <b>Shunyuan Zheng</b>, Zonglin Li, Shengping Zhang, Xiangyang Ji<br>
+<i>arXiv, 2025</i><br>
+<a href="https://sypj-98.github.io/grgs"><i class="fas fa-fw fa-globe"></i>Project</a> /
+<a href="https://arxiv.org/abs/2505.21502"><i class="fas fa-fw fa-file-pdf"></i>Paper</a> /
+<a href="https://youtu.be/mwcIAyEqSY8"><i class="fas fa-fw fa-video"></i>Video</a>
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+<div>
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
+<tr>
+<td style="padding:0px;width:30%;vertical-align:middle;border:none" align="center">
 <img width="100%" src="../images/GPS-Gaussian_Plus.gif"/>
 <!-- <video width="100%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
   <source src="../images/GPS-Gaussian_Plus.mp4" type="video/mp4">
