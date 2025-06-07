@@ -104,7 +104,7 @@ Boyao Zhou*, <b>Shunyuan Zheng</b>*, Hanzhang Tu, Ruizhi Shao, Boning Liu, Sheng
 <b>GBC-Splat: Generalizable Gaussian-Based Clothed Human Digitalization under Sparse RGB Cameras</b><br>
 Hanzhang Tu, Zhanfeng Liao, Boyao Zhou, <b>Shunyuan Zheng</b>, Xilong Zhou, Liuxin Zhang, QianYing Wang, Yebin Liu<br>
 <i>IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2025</i><br>
-<a href=""><i class="fas fa-fw fa-file-pdf"></i>Paper (Coming Soon)</a>
+<a href="https://openaccess.thecvf.com/content/CVPR2025/html/Tu_GBC-Splat_Generalizable_Gaussian-Based_Clothed_Human_Digitalization_under_Sparse_RGB_Cameras_CVPR_2025_paper.html"><i class="fas fa-fw fa-file-pdf"></i>Paper</a>
 </td>
 </tr>
 </table>
