@@ -51,6 +51,26 @@ Bachelor of Engineering. Sep. 2015 - Jun. 2019<br>
 
 ## Research
 
+
+<div>
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
+<tr>
+<td style="padding:0px;width:30%;vertical-align:middle;border:none" align="center">
+<img width="100%" src="../images/Splat-SAP.gif"/>
+</td>
+<td style="padding-left:20px;width:70%;vertical-align:middle;border: none" align="left">
+<b>Splat-SAP: Feed-Forward Gaussian Splatting for Human-Centered Scene with Scale-Aware Point Map Reconstruction</b><br>
+Boyao Zhou, <b>Shunyuan Zheng</b>, Zhanfeng Liao, Zihan Ma, Hanzhang Tu, Boning Liu, and Yebin Liu<br>
+<i>arXiv, 2025</i><br>
+<a href="https://yaourtb.github.io/Splat-SAP"><i class="fas fa-fw fa-globe"></i>Project</a> /
+<a href="https://www.arxiv.org/pdf/2511.22704"><i class="fas fa-fw fa-file-pdf"></i>Paper</a>
+</td>
+</tr>
+</table>
+</div>
+
+---
+
 <div>
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
 <tr>
