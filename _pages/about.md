@@ -52,6 +52,25 @@ Bachelor of Engineering. Sep. 2015 - Jun. 2019<br>
 
 ## Research
 
+<div>
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
+<tr>
+<td style="padding:0px;width:30%;vertical-align:middle;border:none" align="center">
+<img width="100%" src="../images/MOFA_VTON.gif"/>
+</td>
+<td style="padding-left:20px;width:70%;vertical-align:middle;border: none" align="left">
+<b>MOFA-VTON: More Fashion Possibilities with Fine-Grained Adaptations in Virtual Try-On</b><br>
+Xiaoyu Han, Chenyang Wang, Jing Wang, <b>Shunyuan Zheng</b> Quanling Meng, and Shengping Zhang<br>
+<i>IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2026</i>  <font color="#dd0000">(Highlight)</font><br>
+<a href="https://openaccess.thecvf.com/content/CVPR2026/html/Han_MOFA-VTON_More_Fashion_Possibilities_with_Fine-Grained_Adaptations_in_Virtual_Try-On_CVPR_2026_paper.html"><i class="fas fa-fw fa-globe"></i>Project</a> /
+<a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Han_MOFA-VTON_More_Fashion_Possibilities_with_Fine-Grained_Adaptations_in_Virtual_Try-On_CVPR_2026_paper.pdf"><i class="fas fa-fw fa-file-pdf"></i>Paper</a>
+</td>
+</tr>
+</table>
+</div>
+
+---
+
 
 <div>
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
@@ -80,8 +99,8 @@ Boyao Zhou, <b>Shunyuan Zheng</b>, Zhanfeng Liao, Zihan Ma, Hanzhang Tu, Boning 
 </td>
 <td style="padding-left:20px;width:70%;vertical-align:middle;border: none" align="left">
 <b>Generalizable and Relightable Gaussian Splatting for Human Novel View Synthesis</b><br>
-Yipengjing Sun, Chenyang Wang, <b>Shunyuan Zheng</b>, Zonglin Li, Shengping Zhang, Xiangyang Ji<br>
-<i>arXiv, 2025</i><br>
+Yipengjing Sun, Shengping Zhang, Chenyang Wang, <b>Shunyuan Zheng</b>, Zonglin Li, Xiangyang Ji<br>
+<i>ACM <b>SIGGRAPH</b> Conference Proceedings, 2026</i><br>
 <a href="https://sypj-98.github.io/grgs"><i class="fas fa-fw fa-globe"></i>Project</a> /
 <a href="https://arxiv.org/abs/2505.21502"><i class="fas fa-fw fa-file-pdf"></i>Paper</a> /
 <a href="https://youtu.be/mwcIAyEqSY8"><i class="fas fa-fw fa-video"></i>Video</a>
