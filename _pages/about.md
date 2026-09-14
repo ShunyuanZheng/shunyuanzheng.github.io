@@ -11,10 +11,10 @@ redirect_from:
 <!-- * B.S. in Communication Engineering, Hefei University of Technology, 2019
 * M.S. in Computer Science and Technology, Harbin Institute of Technology, 2021
 * Ph.D. in Computer Science and Technology, Harbin Institute of Technology, 2025 (expected) -->
-Hi, this is Shunyuan Zheng. I am a fourth-year (2021~) Ph.D. student in Faculty of Computing, Harbin Institute of Technology, advised by Prof. [Shengping Zhang](https://homepage.hit.edu.cn/zhangshengping).
+Hi, this is Shunyuan Zheng. I am a final-year (2021~ ) Ph.D. student in Faculty of Computing, Harbin Institute of Technology, advised by Prof. [Shengping Zhang](https://homepage.hit.edu.cn/zhangshengping).
 My research focuses on **human-centric 3D vision**, including 3D human reconstruction, novel view synthesis, etc.
 From 2023 to 2024, I worked as a research intern at the 3D Vision and Computational Photography Group, Tsinghua University, guided by Prof. [Yebin Liu](https://liuyebin.com).
-Now I work as a research intern at the Interactive Intelligence Lab, [Ant Research](https://www.antresearch.com), under the mentorship of [Boyao Zhou](https://yaourtb.github.io).<br>
+Now I work as a research intern at the Interactive Intelligence Lab, [Ant Research](https://www.antresearch.com), and also work for [Robbyant](https://www.robbyant.com), both under the mentorship of [Boyao Zhou](https://yaourtb.github.io).<br>
 <br>
 <b>E-mail:</b> sawyer0503[AT]hit.edu.cn<br>
 <b>WeChat:</b> Tau97_Zheng
