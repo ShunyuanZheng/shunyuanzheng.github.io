@@ -1,31 +1,70 @@
-A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
+# Shunyuan Zheng 的个人主页
 
-I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.
+## 目录结构
 
-### Note: if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file. 
+```text
+index.md                       主页正文与各板块，访问路径仍为 /
+_config.yml                    站点地址、个人资料、构建配置
+_config.dev.yml                本地预览地址覆盖配置
+publications/piblication_list.yml  论文数据
+layouts/home.html              主页 HTML 布局
+assets/css/home.css            主页样式
+assets/css/home-fonts.css      主页字体声明
+assets/js/home.js              自动 / 浅色 / 深色主题切换
+assets/fonts/                  Source Sans 3、Source Serif 4 字体与授权说明
+images/avatar.jpg              个人头像
+images/logo/                   学校、机构标志
+images/paper_thumbnail/        论文预览图片
+GPS-Gaussian.html              独立项目页面，保持原样
+assets/GPS-Gaussian/            项目页面的 CSS、图片、视频，保持原样
+docs/                          设计检查与本次清理记录，不发布到网站
+scripts/check_site.py          构建产物的资源、锚点及页面一致性检查
+Gemfile                        GitHub Pages 构建依赖
+LICENSE                        原模板授权
+```
 
-# Instructions
+## 日常维护
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+- 简介、教育与实习经历（Experiences）、报告、获奖、联系方式：编辑 `index.md`。
+- 论文：编辑 `publications/piblication_list.yml`，年份按从新到旧排列；没有公开链接时使用 `links: []`。
+- 姓名、头像文件名、邮箱、Scholar 和 GitHub 链接：编辑 `_config.yml` 中的 `author`。
+- 学校、机构标志放入 `images/logo/`，论文预览图放入 `images/paper_thumbnail/`，同步更新正文或论文数据中的路径。论文图片的 `image_width`、`image_height` 填写原图像素尺寸，用于加载前预留正确比例；页面统一显示宽度，高度自适应。
+- 主页样式与行为分别在 `assets/css/home.css` 和 `assets/js/home.js`；头像不随窗口高度缩放，桌面侧栏使用粘性定位。
 
-See more info at https://academicpages.github.io/
+`publications/` 存放论文数据，`layouts/` 存放页面布局。`_config.yml` 通过 `data_dir` 和 `layouts_dir` 指定这两个目录，并排除源文件的直接发布；Liquid 中仍使用 `site.data`，论文列表通过 `site.data.piblication_list` 读取，页面仍使用 `layout: home`。
 
-## To run locally (not on GitHub Pages, to serve on your own computer)
+## 本地预览与检查
 
-1. Clone the repository and made updates as detailed above
-1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
-1. Run `bundle clean` to clean up the directory (no need to run `--force`)
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+安装 Ruby 和 Bundler 后，在仓库根目录执行：
 
-# Changelog -- bugfixes and enhancements
+```sh
+bundle install
+bundle exec jekyll serve --config _config.yml,_config.dev.yml
+```
 
-There is one logistical issue with a ready-to-fork template theme like academic pages that makes it a little tricky to get bug fixes and updates to the core theme. If you fork this repository, customize it, then pull again, you'll probably get merge conflicts. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch. 
+打开 <http://localhost:4000>。修改配置后需要重启预览。
 
-To support this, all changes to the underlying code appear as a closed issue with the tag 'code change' -- get the list [here](https://github.com/academicpages/academicpages.github.io/issues?q=is%3Aclosed%20is%3Aissue%20label%3A%22code%20change%22%20). Each issue thread includes a comment linking to the single commit or a diff across multiple commits, so those with forked repositories can easily identify what they need to patch.
+发布前检查：
+
+```sh
+bundle exec jekyll build
+python3 scripts/check_site.py _site
+```
+
+继续使用原有 GitHub Pages 发布方式即可。主页仍位于 `/`，`/about/` 和 `/about.html` 保留跳转；GPS-Gaussian 的原始 `/GPS-Gaussian.html` 路径以及 GitHub Pages 的无扩展名链接保持不变。
+
+## 项目页面与保留资源
+
+`GPS-Gaussian.html` 是不经过 Jekyll 模板处理的静态 HTML，其本地运行依赖位于 `assets/GPS-Gaussian/`。项目 HTML、整个 `assets/GPS-Gaussian/` 和 `images/` 均保留原样；项目使用的 Bootstrap 样式位于其独立目录内。
+
+主页资源目录已清除旧模板文件，目前保留：
+
+- `assets/css/`：`home.css` 和 `home-fonts.css`。
+- `assets/js/`：`home.js`。
+- `assets/fonts/`：Source Sans 3、Source Serif 4 各自的正常体和斜体 WOFF2 文件、两份 OFL 授权及 `README.md`。
+
+清理范围、验证结果及已发现的图片路径修复见 [清理记录](docs/repository-cleanup.md)，历史视觉检查见 [设计检查](docs/design-qa.md)。
+
+## 授权
+
+仓库最初基于 AcademicPages / Minimal Mistakes。保留原 [MIT License](LICENSE)；本地 Source Sans 3 和 Source Serif 4 的 OFL 授权位于 `assets/fonts/`。其他保留资源中的原有版权信息未改动。

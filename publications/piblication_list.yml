@@ -1,0 +1,156 @@
+# Research publications in the original homepage order.
+# HTML is retained in titles, authors, and venues for academic notation.
+
+- year: 2026
+  title: "UniFoS: Unifying 3D Foundation Priors with Stereo Geometry for Real-Time Human Gaussian Splatting"
+  authors: "<b>Shunyuan Zheng</b>, Boyao Zhou, Chenyang Wang, Kunyi Xie, Jiajun Zhang, Boning Liu, Shengping Zhang, Xin Sun"
+  venue: "Under Review, 2026"
+  highlight: false
+  image: "/images/paper_thumbnail/UniFoS.gif"
+  image_width: 640
+  image_height: 360
+  links: []
+
+- year: 2026
+  title: "G<sup>2</sup>S<sup>2</sup>-IR: Glocal Gaussian Splatting with Surface Awareness for Inverse Rendering"
+  authors: "Junnan Li, Shengping Zhang, Ru Li, <b>Shunyuan Zheng</b>, Chenyang Wang, Henglu Wei, Xiangyang Ji"
+  venue: "International Journal of Computer Vision (<b>IJCV</b>), 2026"
+  highlight: false
+  image: "/images/paper_thumbnail/G2S2IR.gif"
+  image_width: 688
+  image_height: 360
+  links: []
+
+- year: 2026
+  title: "MOFA-VTON: More Fashion Possibilities with Fine-Grained Adaptations in Virtual Try-On"
+  authors: "Xiaoyu Han, Chenyang Wang, Jing Wang, <b>Shunyuan Zheng</b>, Quanling Meng, and Shengping Zhang"
+  venue: "IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2026"
+  highlight: true
+  image: "/images/paper_thumbnail/MOFA_VTON.gif"
+  image_width: 1280
+  image_height: 720
+  links:
+    - label: "Project"
+      url: "https://openaccess.thecvf.com/content/CVPR2026/html/Han_MOFA-VTON_More_Fashion_Possibilities_with_Fine-Grained_Adaptations_in_Virtual_Try-On_CVPR_2026_paper.html"
+    - label: "Paper"
+      url: "https://openaccess.thecvf.com/content/CVPR2026/papers/Han_MOFA-VTON_More_Fashion_Possibilities_with_Fine-Grained_Adaptations_in_Virtual_Try-On_CVPR_2026_paper.pdf"
+
+- year: 2026
+  title: "Splat-SAP: Feed-Forward Gaussian Splatting for Human-Centered Scene with Scale-Aware Point Map Reconstruction"
+  authors: "Boyao Zhou, <b>Shunyuan Zheng</b>, Zhanfeng Liao, Zihan Ma, Hanzhang Tu, Boning Liu, and Yebin Liu"
+  venue: "AAAI Conference on Artificial Intelligence (<b>AAAI</b>), 2026"
+  highlight: false
+  image: "/images/paper_thumbnail/Splat-SAP.gif"
+  image_width: 640
+  image_height: 280
+  links:
+    - label: "Project"
+      url: "https://yaourtb.github.io/Splat-SAP"
+    - label: "Paper"
+      url: "https://www.arxiv.org/pdf/2511.22704"
+
+- year: 2026
+  title: "Generalizable and Relightable Gaussian Splatting for Human Novel View Synthesis"
+  authors: "Yipengjing Sun, Shengping Zhang, Chenyang Wang, <b>Shunyuan Zheng</b>, Zonglin Li, Xiangyang Ji"
+  venue: "ACM <b>SIGGRAPH</b> Conference Proceedings, 2026"
+  highlight: false
+  image: "/images/paper_thumbnail/GRGS.gif"
+  image_width: 640
+  image_height: 360
+  links:
+    - label: "Project"
+      url: "https://sypj-98.github.io/grgs"
+    - label: "Paper"
+      url: "https://arxiv.org/abs/2505.21502"
+    - label: "Video"
+      url: "https://youtu.be/mwcIAyEqSY8"
+
+- year: 2025
+  title: "GPS-Gaussian+: Generalizable Pixel-wise 3D Gaussian Splatting for Real-Time Human-Scene Rendering from Sparse Views"
+  authors: "Boyao Zhou*, <b>Shunyuan Zheng</b>*, Hanzhang Tu, Ruizhi Shao, Boning Liu, Shengping Zhang, Liqiang Nie, Yebin Liu (*=equal contribution)"
+  venue: "IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>T-PAMI</b>), 2025"
+  highlight: false
+  image: "/images/paper_thumbnail/GPS-Gaussian_Plus.gif"
+  image_width: 640
+  image_height: 360
+  links:
+    - label: "Project"
+      url: "https://yaourtb.github.io/GPS-Gaussian+"
+    - label: "Paper"
+      url: "https://arxiv.org/pdf/2411.11363"
+    - label: "Code"
+      url: "https://github.com/YaourtB/GPS_plus"
+
+- year: 2025
+  title: "GBC-Splat: Generalizable Gaussian-Based Clothed Human Digitalization under Sparse RGB Cameras"
+  authors: "Hanzhang Tu, Zhanfeng Liao, Boyao Zhou, <b>Shunyuan Zheng</b>, Xilong Zhou, Liuxin Zhang, QianYing Wang, Yebin Liu"
+  venue: "IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2025"
+  highlight: false
+  image: "/images/paper_thumbnail/GBC_Splat.jpg"
+  image_width: 2048
+  image_height: 900
+  links:
+    - label: "Paper"
+      url: "https://openaccess.thecvf.com/content/CVPR2025/html/Tu_GBC-Splat_Generalizable_Gaussian-Based_Clothed_Human_Digitalization_under_Sparse_RGB_Cameras_CVPR_2025_paper.html"
+
+- year: 2024
+  title: "Shape-Guided Clothing Warping for Virtual Try-On"
+  authors: "Xiaoyu Han, <b>Shunyuan Zheng</b>, Zonglin Li, Chenyang Wang, Xin Sun, Quanling Meng"
+  venue: "ACM International Conference on Multimedia (<b>ACM MM</b>), 2024"
+  highlight: false
+  image: "/images/paper_thumbnail/SCW-VTON.png"
+  image_width: 1635
+  image_height: 985
+  links:
+    - label: "Paper"
+      url: "https://dl.acm.org/doi/10.1145/3664647.3680756"
+    - label: "Code"
+      url: "https://github.com/xyhanHIT/SCW-VTON"
+
+- year: 2024
+  title: "GPS-Gaussian: Generalizable Pixel-wise 3D Gaussian Splatting for Real-time Human Novel View Synthesis"
+  authors: "<b>Shunyuan Zheng</b>, Boyao Zhou, Ruizhi Shao, Boning Liu, Shengping Zhang, Liqiang Nie, Yebin Liu"
+  venue: "IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2024"
+  highlight: true
+  image: "/images/paper_thumbnail/GPS-Gaussian.gif"
+  image_width: 640
+  image_height: 360
+  links:
+    - label: "Project"
+      url: "https://shunyuanzheng.github.io/GPS-Gaussian"
+    - label: "Paper"
+      url: "https://arxiv.org/pdf/2312.02155"
+    - label: "Video"
+      url: "https://youtu.be/HjnBAqjGIAo"
+    - label: "Code"
+      url: "https://github.com/aipixel/GPS-Gaussian"
+
+- year: 2024
+  title: "Tele-Aloha: A Telepresence System with Low-budget and High-authenticity Using Sparse RGB Cameras"
+  authors: "Hanzhang Tu, Ruizhi Shao, Xue Dong, <b>Shunyuan Zheng</b>, Hao Zhang, Lili Chen, Meili Wang, Wenyu Li, Siyan Ma, Shengping Zhang, Boyao Zhou, Yebin Liu"
+  venue: "ACM <b>SIGGRAPH</b> Conference Proceedings, 2024"
+  highlight: false
+  image: "/images/paper_thumbnail/Tele-Aloha.gif"
+  image_width: 640
+  image_height: 360
+  links:
+    - label: "Project"
+      url: "https://itoshiko.com/c/Tele-Aloha"
+    - label: "Paper"
+      url: "https://arxiv.org/pdf/2405.14866"
+    - label: "Video"
+      url: "https://itoshiko.com/c/Tele-Aloha/#vid"
+
+- year: 2020
+  title: "Overwater Image Dehazing via Cycle-Consistent Generative Adversarial Network"
+  authors: "<b>Shunyuan Zheng</b>, Jiamin Sun, Qinglin Liu, Yuankai Qi, Shengping Zhang"
+  venue: "Asian Conference on Computer Vision (<b>ACCV</b>), 2020"
+  highlight: false
+  image: "/images/paper_thumbnail/OWI-DehazeGAN.jpg"
+  image_width: 1024
+  image_height: 601
+  links:
+    - label: "Paper"
+      url: "https://openaccess.thecvf.com/content/ACCV2020/papers/Zheng_Overwater_Image_Dehazing_via_Cycle-Consistent_Generative_Adversarial_Network_ACCV_2020_paper.pdf"
+    - label: "Code"
+      url: "https://github.com/ShunyuanZheng/OWI-DehazeGAN"
