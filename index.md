@@ -65,9 +65,9 @@ redirect_from:
       </div>
     </li>
     <li class="education-entry">
-      <img class="education-logo" src="{{ '/images/logo/antgroup.png' | relative_url }}" alt="Ant Group" width="954" height="302" decoding="async">
+      <img class="education-logo" src="{{ '/images/logo/antresearch.png' | relative_url }}" alt="Ant Research" width="1254" height="1254" decoding="async">
       <div>
-        <h3><a href="https://www.antresearch.com">Ant Group</a></h3>
+        <h3><a href="https://www.antresearch.com">Ant Research</a></h3>
         <p>Aug. 2025 – Present</p>
         <p>Research Intern</p>
       </div>
