@@ -95,7 +95,7 @@
     - label: "Project"
       url: "https://openaccess.thecvf.com/content/CVPR2025/html/Tu_GBC-Splat_Generalizable_Gaussian-Based_Clothed_Human_Digitalization_under_Sparse_RGB_Cameras_CVPR_2025_paper.html"
     - label: "Paper"
-      url: "https://openaccess.thecvf.com/content/CVPR2025/html/Tu_GBC-Splat_Generalizable_Gaussian-Based_Clothed_Human_Digitalization_under_Sparse_RGB_Cameras_CVPR_2025_paper.html"
+      url: "https://openaccess.thecvf.com/content/CVPR2025/papers/Tu_GBC-Splat_Generalizable_Gaussian-Based_Clothed_Human_Digitalization_under_Sparse_RGB_Cameras_CVPR_2025_paper.pdf"
 
 - year: 2024
   title: "Shape-Guided Clothing Warping for Virtual Try-On"
