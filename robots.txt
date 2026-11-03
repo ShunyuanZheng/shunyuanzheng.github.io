@@ -1,0 +1,11 @@
+---
+layout: null
+permalink: /robots.txt
+sitemap: false
+---
+# Keep contact images out of Google Search; the portrait and research images remain crawlable.
+User-agent: Googlebot
+Disallow: /images/wechat/QR_Code.jpg
+Disallow: /assets/icons/wechat.png
+
+Sitemap: {{ '/sitemap.xml' | absolute_url }}

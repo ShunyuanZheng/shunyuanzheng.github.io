@@ -4,6 +4,8 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="color-scheme" content="light dark">
+  {% assign homepage_url = '/' | absolute_url %}
+  {% assign avatar_url = site.author.avatar | prepend: '/images/' | absolute_url %}
   <title>{{ site.title | escape }}</title>
   <meta name="description" content="Shunyuan Zheng (郑顺源), Ph.D. student at Harbin Institute of Technology. Research in human-centric 3D vision, human reconstruction, and novel view synthesis.">
   <link rel="canonical" href="{{ '/' | absolute_url }}">
@@ -11,8 +13,33 @@
   <meta property="og:description" content="Human-centric 3D vision, human reconstruction, and novel view synthesis.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="{{ '/' | absolute_url }}">
-  <meta property="og:image" content="{{ '/images/avatar.jpg' | absolute_url }}">
+  <meta property="og:image" content="{{ avatar_url }}">
+  <meta property="og:image:type" content="image/jpeg">
+  <meta property="og:image:width" content="1080">
+  <meta property="og:image:height" content="1080">
+  <meta property="og:image:alt" content="{{ site.author.name | escape }} (郑顺源)">
   <link rel="icon" href="{{ '/images/avatar.jpg' | relative_url }}" type="image/jpeg">
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "url": {{ homepage_url | jsonify }},
+      "name": {{ site.title | jsonify }},
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "url": {{ avatar_url | jsonify }},
+        "width": 1080,
+        "height": 1080
+      },
+      "mainEntity": {
+        "@type": "Person",
+        "name": {{ site.author.name | jsonify }},
+        "alternateName": "郑顺源",
+        "url": {{ homepage_url | jsonify }},
+        "image": {{ avatar_url | jsonify }}
+      }
+    }
+  </script>
   <script>
     try {
       var theme = localStorage.getItem('homepage-theme');

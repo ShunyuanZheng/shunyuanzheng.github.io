@@ -53,6 +53,8 @@ python3 scripts/check_site.py _site
 
 继续使用原有 GitHub Pages 发布方式即可。主页仍位于 `/`，`/about/` 和 `/about.html` 保留跳转；GPS-Gaussian 的原始 `/GPS-Gaussian.html` 路径以及 GitHub Pages 的无扩展名链接保持不变。
 
+主页通过 `og:image`、`primaryImageOfPage` 和个人信息中的 `image` 将头像指定为首选搜索配图，统一读取 `author.avatar`。根目录 `robots.txt` 仅限制 Google 抓取微信二维码和微信图标，二维码的页面查看功能照常可用。Google 会自动决定最终配图；发布后可在 Search Console 的网址检查中对主页请求重新编入索引，更新需要等待重新抓取。参见 [Google 图片说明](https://developers.google.com/search/docs/appearance/google-images#primary-image)和[重新抓取说明](https://developers.google.com/search/docs/crawling-indexing/ask-google-to-recrawl)。
+
 ## 项目页面与保留资源
 
 `GPS-Gaussian.html` 是不经过 Jekyll 模板处理的静态 HTML，其本地运行依赖位于 `assets/GPS-Gaussian/`。项目 HTML、整个 `assets/GPS-Gaussian/` 和 `images/` 均保留原样；项目使用的 Bootstrap 样式位于其独立目录内。
