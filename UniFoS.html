@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Projectpage of UniFoS</title>
+    <!-- Bootstrap -->
+    <link href="assets/UniFoS/css/bootstrap-4.4.1.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> 
+
+    <style>
+      :root {
+        color-scheme: dark;
+        --page-bg: #000;
+        --surface: #161616;
+        --heading: #fff;
+        --text: #d4d4d4;
+        --muted: #aaa;
+        --rule: #383838;
+      }
+      body, .jumbotron { background-color: var(--page-bg); }
+      body { color: var(--text); }
+      h2, h3 { color: var(--heading); }
+      h4, h6, footer { color: var(--muted); }
+      .paper-title-box {
+        margin-bottom: 1.5rem;
+        padding: clamp(1.25rem, 3vw, 2rem);
+        background: rgba(26, 26, 26, .65);
+        border: 1px solid rgba(255, 255, 255, .08);
+        border-top-color: rgba(255, 255, 255, .16);
+        border-radius: 12px;
+        box-shadow: 0 0 36px rgba(0, 255, 255, .08);
+      }
+      .paper-title-box h2 { text-wrap: balance; }
+      .paper-title-box h4 { margin-bottom: 0; }
+      @media (max-width: 575.98px) {
+        .paper-title-box { margin-top: 1rem; }
+        .paper-title-box h2 {
+          font-size: clamp(1.4rem, 6.5vw, 2rem);
+        }
+        .paper-title-box br { display: none; }
+      }
+      a:not(.btn) {
+        color: var(--text);
+        text-decoration: underline;
+        text-decoration-color: var(--muted);
+        text-underline-offset: .15em;
+      }
+      a:not(.btn):hover, a:not(.btn):focus-visible { color: var(--heading); }
+      hr { border-color: var(--rule); }
+      pre {
+        padding: 1.25em 1.5em;
+        background-color: var(--surface);
+        color: var(--text);
+      }
+      .video-playlist {
+        display: grid;
+        grid-template-columns: minmax(0, 1fr);
+        margin-bottom: 1.5rem;
+      }
+      .video-playlist video {
+        grid-area: 1 / 1;
+        display: block;
+        width: 100%;
+        height: auto;
+        background: #101418;
+      }
+      .playlist-arrow {
+        grid-area: 1 / 1;
+        align-self: center;
+        z-index: 1;
+        width: 44px;
+        height: 44px;
+        margin: 0 clamp(.375rem, 1.5vw, 1rem);
+        padding: 0;
+        border: 1px solid rgba(255, 255, 255, .65);
+        border-radius: 50%;
+        background: rgba(16, 20, 24, .85);
+        color: white;
+        font-size: 1.25rem;
+        line-height: 1;
+        cursor: pointer;
+        opacity: .6;
+        transition: opacity .15s ease;
+      }
+      .playlist-arrow[data-step="-1"] { justify-self: start; }
+      .playlist-arrow[data-step="1"] { justify-self: end; }
+      @media (hover: hover) {
+        .playlist-arrow:hover { opacity: 1; }
+      }
+      .playlist-arrow:active, .playlist-arrow:focus-visible { opacity: 1; }
+      .playlist-arrow:focus-visible {
+        outline: 2px solid white;
+        outline-offset: 2px;
+      }
+      .playlist-dots {
+        grid-area: 2 / 1;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: .45rem;
+        padding: .65rem 0;
+      }
+      .playlist-dot {
+        width: 8px;
+        height: 8px;
+        border-radius: 50%;
+        background: var(--heading);
+        opacity: .4;
+      }
+      .playlist-dot[aria-current="true"] {
+        opacity: .85;
+        transform: scale(1.25);
+      }
+    </style>
+  </head>
+
+  <!-- cover -->
+  <section>
+    <div class="jumbotron text-center mt-0">
+      <div class="container">
+        <div class="row">
+          <div class="col-12">
+            <header class="paper-title-box">
+              <h2>UniFoS: Unifying 3D Foundation Priors with Stereo Geometry<br> for Real-Time Human Gaussian Splatting</h2>
+              <h4>arXiv 2026</h4>
+            </header>
+            <h6> <a href="https://shunyuanzheng.github.io" target="_blank">Shunyuan Zheng<sup>1</sup></a>,
+                <a href="https://yaourtb.github.io" target="_blank">Boyao Zhou<sup>&dagger;,2</sup></a>,
+                <a href="https://wangchenyang.cn/" target="_blank">Chenyang Wang<sup>1</sup></a>,
+                Kunyi Xie<sup>1</sup></a>,
+                <a href="https://github.com/jiajunzhang16" target="_blank">Jiajun Zhang<sup>2</sup></a>,
+                <a href="https://liuboning2.github.io" target="_blank">Boning Liu<sup>3</sup></a>,
+                <a href="https://homepage.hit.edu.cn/SunXIn" target="_blank">Xin Sun<sup>&#x2709,1</sup></a></h6>
+            <p><sup>1</sup>Harbin Institute of Technology<sup>&nbsp;&nbsp;&nbsp;&nbsp;2</sup>Tsinghua University<sup>&nbsp;&nbsp;&nbsp;&nbsp;3</sup>Pengcheng Laboratory
+            <br><sup>&#x2709</sup>Corresponding author <sup>&nbsp;&nbsp;&nbsp;&nbsp;&dagger;</sup>Project Lead
+            </p>
+            <!-- <p>*Corresponding author</p> -->
+            <!-- <p> <a class="btn btn-secondary btn-lg" href="" role="button">Paper</a> 
+                <a class="btn btn-secondary btn-lg" href="" role="button">Code</a> 
+                <a class="btn btn-secondary btn-lg" href="" role="button">Data</a> </p> -->
+
+            <div class="row justify-content-center">
+              <div class="column">
+                <p class="mb-5"><a class="btn btn-large btn-light" href="" role="button"  target="_blank">
+                  <i class="fa fa-file"></i> Paper</a> </p>
+              </div>
+              <div class="column">
+                <p class="mb-5"><a class="btn btn-large btn-light" href="" role="button"  target="_blank">
+                  <i class="fa fa-github"></i> Code (Coming Soon)</a></p>
+              </div>
+            </div>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  <section>
+    <div class="container">
+      <div class="row">
+        <div class="col-12 text-center">
+          <h3>Abstract</h3>
+            <hr style="margin-top:0px">
+            <img class="d-block mb-4" src="assets/UniFoS/images/teaser.png" width="100%" alt=""/>
+          <p class="text-left"> We propose UniFoS, a feed-forward framework that unifies 3D foundation priors with stereo geometry for real-time human Gaussian Splatting at 2K resolution under both calibrated and uncalibrated settings. (a) UniFoS performs 2K-resolution novel view synthesis at up to 30 FPS. By complementing the predictions of 3D foundation models (<em>e.g.</em>, <a href="https://github.com/bytedance-seed/depth-anything-3" target="_blank">DA3</a>) with explicit geometric constraints, our method recovers (b) fine geometric details (also shown in (c) normal map), improves (d) depth consistency and (e) epipolar alignment. Conversely, 3D foundation models provide reliable initialization and enable UniFoS to work without camera calibration. Note that (d) is evaluated with forward-backward disparity consistency and quantified with pixel error, where a hotter color represents a larger value, and (e) indicates how corresponding pixels deviate from the epipolar lines induced by the predicted cameras.
+            </p>
+        </div>
+      </div>
+    </div>
+  </section>
+  <br>
+
+  <section id="live-demo">
+    <div class="container">
+      <div class="row">
+        <div class="col-12 text-center">
+          <h3>Live Demo</h3>
+            <hr style="margin-top:0px">
+          <h6 id="demo-uncalibrated"> Live demo under uncalibrated setting</h6>
+          <div class="video-playlist" role="group" aria-labelledby="demo-uncalibrated"
+               data-remaining-clips="assets/UniFoS/videos/live_demo_uncalib2.mp4">
+            <video src="assets/UniFoS/videos/live_demo_uncalib1.mp4" aria-labelledby="demo-uncalibrated"
+                   width="1920" height="1080" controls autoplay muted playsinline preload="metadata"></video>
+          </div>
+          <h6 id="demo-calibrated"> Live demo under calibrated setting</h6>
+          <div class="video-playlist" role="group" aria-labelledby="demo-calibrated"
+               data-remaining-clips="assets/UniFoS/videos/live_demo_calib2.mp4
+                                      assets/UniFoS/videos/live_demo_calib3.mp4
+                                      assets/UniFoS/videos/live_demo_calib4.mp4">
+            <video src="assets/UniFoS/videos/live_demo_calib1.mp4" aria-labelledby="demo-calibrated"
+                   width="1920" height="1080" controls autoplay muted playsinline preload="metadata"></video>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <br>
+
+  <section>
+    <div class="container">
+      <div class="row">
+        <div class="col-12 text-center">
+          <h3>Comparison with SOTA Methods</h3>
+            <hr style="margin-top:0px">
+          <h6 id="baselines-uncalibrated"> Uncalibrated Baselines: <a href="https://github.com/cvg/NoPoSplat" target="_blank">NoPoSplat</a>, <a href="https://github.com/IridescentJiang/HiReFF" target="_blank">HiReFF</a></h6>
+          <div class="video-playlist" role="group" aria-labelledby="baselines-uncalibrated"
+               data-remaining-clips="assets/UniFoS/videos/compare_uncalib2.mp4">
+            <video src="assets/UniFoS/videos/compare_uncalib1.mp4" aria-labelledby="baselines-uncalibrated"
+                   width="1920" height="1080" controls autoplay muted playsinline preload="metadata"></video>
+          </div>
+          <h6 id="baselines-calibrated"> Calibrated Baselines: <a href="https://github.com/TQTQliu/MVSGaussian" target="_blank">MVSGaussian</a>, <a href="https://github.com/YaourtB/GPS_plus" target="_blank">GPS-Gaussian+</a></h6>
+          <div class="video-playlist" role="group" aria-labelledby="baselines-calibrated"
+               data-remaining-clips="assets/UniFoS/videos/compare_calib2.mp4">
+            <video src="assets/UniFoS/videos/compare_calib1.mp4" aria-labelledby="baselines-calibrated"
+                   width="1920" height="1080" controls autoplay muted playsinline preload="metadata"></video>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <br>
+
+  <section>
+    <div class="container">
+      <div class="row">
+          <div class="col-12 text-center">
+            <h3>Method</h3>
+              <hr style="margin-top:0px">
+            <img src="assets/UniFoS/images/pipeline.png" width="100%" alt=""/>
+            <p>&nbsp;</p>
+            <p>
+              <b>Overview of UniFoS.</b> Our method takes binocular upper-body images as input and their corresponding camera parameters as optional conditions. The input pairs are first fed to a 3D foundation model for coarse depth estimation. Then undergo a lightweight depth refinement module to introduce geometric constraints into foundation predictions. Finally, a high-resolution pixel-aligned rendering module regresses pixel-aligned Gaussian maps from the refined depths and source appearance, which are then lifted to 3D space and aggregated for real-time rendering. The camera self-correction is necessitated under the uncalibrated setting to ensure the framework remains effective.
+            </p>
+            <p>&nbsp;</p>
+          </div>
+      </div>
+    </div>
+  </section>
+  <br>
+
+  <!-- citing -->
+  <div class="container">
+    <div class="row ">
+      <div class="col-12">
+          <h3>Citation</h3>
+          <hr style="margin-top:0px">
+              <pre>
+<code>@inproceedings{
+}</code></pre>
+          <hr>
+      </div>
+    </div>
+  </div>
+
+  <footer class="text-center" style="margin-bottom:10px">
+      Thanks to <a href="https://lioryariv.github.io/" target="_blank">Lior Yariv</a> for the website template.
+  </footer>
+
+
+  <template id="playlist-navigation">
+    <button type="button" class="playlist-arrow" data-step="-1" aria-label="Previous video">&#10094;</button>
+    <button type="button" class="playlist-arrow" data-step="1" aria-label="Next video">&#10095;</button>
+    <div class="playlist-dots" role="img"></div>
+  </template>
+  <script>
+    const navigation = document.querySelector('#playlist-navigation');
+    for (const group of document.querySelectorAll('.video-playlist')) {
+      const video = group.querySelector('video');
+      const clips = [video.getAttribute('src'), ...group.dataset.remainingClips.trim().split(/\s+/)];
+      group.append(navigation.content.cloneNode(true));
+      const pagination = group.querySelector('.playlist-dots');
+      const dots = clips.map(() => {
+        const dot = document.createElement('span');
+        dot.className = 'playlist-dot';
+        pagination.append(dot);
+        return dot;
+      });
+      let index = 0;
+
+      function updatePosition() {
+        pagination.setAttribute('aria-label', `Video ${index + 1} of ${clips.length}`);
+        dots.forEach((dot, i) => dot.setAttribute('aria-current', String(i === index)));
+      }
+
+      function switchClip(step) {
+        index = (index + step + clips.length) % clips.length;
+        video.src = clips[index];
+        updatePosition();
+        // Native controls remain available when the browser blocks autoplay.
+        video.play().catch(() => {});
+      }
+
+      for (const button of group.querySelectorAll('button[data-step]')) {
+        button.addEventListener('click', () => switchClip(Number(button.dataset.step)));
+      }
+      video.addEventListener('ended', () => {
+        if (video.ended) switchClip(1);
+      });
+      updatePosition();
+    }
+  </script>
+
+</body>
+</html>

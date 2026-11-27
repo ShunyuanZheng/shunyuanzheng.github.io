@@ -35,7 +35,7 @@ redirect_from:
           <div class="pub-main">
             <h4 class="pub-title">{{ paper.title }}</h4>
             <p class="pub-authors">{{ paper.authors }}</p>
-            <p class="pub-venue">{{ paper.venue }}{% if paper.highlight %} <span class="pub-highlight">(Highlight)</span>{% endif %}</p>
+            <p class="pub-venue">{{ paper.venue }}</p>
             {% if paper.links.size > 0 %}
             <div class="pub-links" aria-label="Links for {{ paper.title | strip_html | escape }}">
               {% for link in paper.links %}
